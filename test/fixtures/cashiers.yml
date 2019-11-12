@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  data_do_movimento: 2019-06-05
+  lancamento: 1.5
+  conta_contabil: MyString
+  numero_do_documento: MyString
+  tipo_do_documento: MyString
+  descricao: MyString
+  total: 1.5
+
+two:
+  data_do_movimento: 2019-06-05
+  lancamento: 1.5
+  conta_contabil: MyString
+  numero_do_documento: MyString
+  tipo_do_documento: MyString
+  descricao: MyString
+  total: 1.5

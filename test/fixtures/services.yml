@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  date: 2019-06-05
+  worker: one
+  initial_hour: MyString
+  final_hour: MyString
+  service_cost: 1.5
+  service_order: one
+  description: MyString
+
+two:
+  name: MyString
+  date: 2019-06-05
+  worker: two
+  initial_hour: MyString
+  final_hour: MyString
+  service_cost: 1.5
+  service_order: two
+  description: MyString

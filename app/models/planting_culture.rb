@@ -1,0 +1,2 @@
+class PlantingCulture < ApplicationRecord
+end

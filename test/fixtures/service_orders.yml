@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  requester: MyString
+  prevision_opener_date: 2019-06-05
+  prevision_finish_date: 2019-06-05
+  area: one
+  planting_culture: one
+
+two:
+  name: MyString
+  requester: MyString
+  prevision_opener_date: 2019-06-05
+  prevision_finish_date: 2019-06-05
+  area: two
+  planting_culture: two
